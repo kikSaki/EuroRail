@@ -1,0 +1,25 @@
+Ljubljana;SI
+Zagreb;HR
+Dunaj;AT
+Berlin;DE
+Lizbona;PT
+Madrid;ES
+Andora la Vella;AD
+Rim;IT
+Pariz;FR
+Bruselj;BE
+Amsterdam;NL
+Pariz Creteil;FR
+Bern;CH
+Praga;CZ
+Rim
+Bratislava;SK
+Praga;SK
+Amsterdam Port;NL
+Beograd;RS
+Sarajevo;BA
+Atene;EL
+Tirana;AL
+Podgorica;ME
+Lizbona;PT
+Ljubljana;XY
